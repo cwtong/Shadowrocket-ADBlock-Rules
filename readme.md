@@ -1,8 +1,11 @@
+## 原作 [h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+
 ## 最完善的 iOS 翻墙规则
 
 这里是一系列好用的翻墙规则，针对 [Shadowrocket](https://liguangming.com/Shadowrocket) 开发，支持广告过滤，使用 Python 按照一定的规则和模板定期自动生成，并且使用开源的力量，集众人之力逐渐完善。
 
-**正在使用手机浏览本页面的用户 [请点击这里](https://github.com/h2y/Shadowrocket-ADBlock-Rules/blob/master/readme.md)，查看完整的说明文档。**
+**正在使用手机浏览本页面的用户 [请点击这里](https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/readme.md)，查看完整的说明文档。**
 
 **本规则具有以下特点：**
 
@@ -93,7 +96,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 
 **如何贡献代码？**
 
-通常的情况下，对 [factory 目录](https://github.com/h2y/Shadowrocket-ADBlock-Rules/tree/master/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
+通常的情况下，对 [factory 目录](https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/factory) 下的 3 个 `manual_*.txt` 文件做对应修改即可。
 
 
 ## 捐助
@@ -115,9 +118,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 直连：正常的网站
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist_ad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist_ad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_top500_banlist_ad.conf>
 
 ## 白名单过滤 + 广告
 
@@ -127,9 +128,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 代理：默认代理其余的所有境外网站
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist_ad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist_ad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_top500_whitelist_ad.conf>
 
 
 ## 黑名单过滤
@@ -140,9 +139,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 直连：正常的网站
 - 不包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_banlist.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_banlist.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_top500_banlist.conf>
 
 
 ## 白名单过滤
@@ -153,27 +150,21 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 代理：默认代理其余的所有境外网站
 - 不包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_top500_whitelist.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_top500_whitelist.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_top500_whitelist.conf>
 
 
 ## 国内外划分 + 广告
 
 国内外划分，对中国网站直连，外国网站代理。包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_cnip_ad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip_ad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_cnip_ad.conf>
 
 
 ## 国内外划分
 
 国内外划分，对中国网站直连，外国网站代理。不包含广告过滤。国外网站总是走代理，对于某些港澳台网站，速度反而会比直连更快。
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_cnip.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_cnip.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_cnip.conf>
 
 
 ## 直连去广告
@@ -183,9 +174,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 直连：所有请求
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_direct_banad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_direct_banad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_direct_banad.conf>
 
 
 ## 代理去广告
@@ -196,9 +185,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 代理：其余所有请求
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_proxy_banad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_proxy_banad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_proxy_banad.conf>
 
 
 ## 回国规则
@@ -209,9 +196,7 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 代理：中国网站
 - 不包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_backcn.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_backcn.conf>
 
 
 ## 回国规则 + 广告
@@ -222,6 +207,4 @@ Hosts 生成工具，生成 `在当前所在网络环境下` Apple 服务器的 
 - 代理：中国网站
 - 包含广告过滤
 
-规则地址：<https://raw.githubusercontent.com/h2y/Shadowrocket-ADBlock-Rules/master/sr_backcn_ad.conf>
-
-![二维码](https://h2y.github.io/Shadowrocket-ADBlock-Rules/figure/sr_backcn_ad.png)
+规则地址：<https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/sr_backcn_ad.conf>
