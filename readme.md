@@ -11,7 +11,7 @@ Add a bunch of HK related Adblock REJECT rules
 
 这里是一系列好用的翻墙规则，针对 [Shadowrocket](https://liguangming.com/Shadowrocket) 开发，支持广告过滤，使用 Python 按照一定的规则和模板定期自动生成，并且使用开源的力量，集众人之力逐渐完善。
 
-**正在使用手机浏览本页面的用户 [请点击这里](https://raw.githubusercontent.com/cwtong/Shadowrocket-ADBlock-Rules/tong_rules/readme.md)，查看完整的说明文档。**
+**正在使用手机浏览本页面的用户 [请点击这里](https://github.com/cwtong/Shadowrocket-ADBlock-Rules/blob/tong_rules/readme.md)，查看完整的说明文档。**
 
 **本规则具有以下特点：**
 
