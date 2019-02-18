@@ -8,6 +8,8 @@
 
 
 {{ad}}
+{{manual_reject_hk}}
+
 {{manual_reject}}
 
 {{top500_direct}}
@@ -17,8 +19,8 @@ GEOIP,CN,DIRECT
 
 {{manual_direct}}
 
-IP-CIDR,192.168.0.0/16,DIRECT
-IP-CIDR,10.0.0.0/8,DIRECT
+#IP-CIDR,192.168.0.0/16,DIRECT
+#IP-CIDR,10.0.0.0/8,DIRECT
 IP-CIDR,172.16.0.0/12,DIRECT
 IP-CIDR,127.0.0.0/8,DIRECT
 

@@ -4,6 +4,8 @@
 #
 
 
+{{manual_reject_hk}}
+
 {{manual_reject}}
 
 {{ad}}

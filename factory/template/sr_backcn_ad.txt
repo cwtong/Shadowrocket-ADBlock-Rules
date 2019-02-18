@@ -8,6 +8,8 @@ DOMAIN-SUFFIX,.cn,proxy
 
 GEOIP,CN,proxy
 
+{{manual_reject_hk}}
+
 {{manual_reject}}
 
 {{ad}}
