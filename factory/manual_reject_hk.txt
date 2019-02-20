@@ -17,8 +17,6 @@ geo.yahoo.com
 adserver.yahoo.com
 geo.moatads.com
 data.flurry.com
-settings.crashlytics.com
-e.crashlytics.com
 ios.bugly.qq.com
 118.89.204.0/24
 adt.xdrig.com
