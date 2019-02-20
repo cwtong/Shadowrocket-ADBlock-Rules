@@ -63,7 +63,6 @@ ios.rqd.qq.com
 .myqcloud.com
 adservice.google.com
 adservice.google.com.hk
-e.crashlytics.com
 www.googletagservices.com
 search.yahoo.com
 partnerads.ysm.yahoo.com
