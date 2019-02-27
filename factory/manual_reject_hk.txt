@@ -1,4 +1,3 @@
-urbanairship.com
 ads-bidder-api.twitter.com
 intowow.info
 ads.mopub.com
