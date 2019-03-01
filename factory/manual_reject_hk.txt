@@ -68,7 +68,6 @@ yap.yahoo.com
 zz.bdstatic.com
 manhua.qpic.cn
 zhanzhang.baidu.com
-mhimg.acg.gd
 changyan.sohu.com
 klvvo.xhzlovehyx.cn
 nanin.gexinbang.cn
@@ -76,4 +75,3 @@ sdgreg.cn
 img.awnxiz.cn
 sp0.baidu.com
 sdgreg.cn
-api.acg.gd
