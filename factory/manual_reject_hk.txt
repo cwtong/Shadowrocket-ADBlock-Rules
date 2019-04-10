@@ -62,7 +62,6 @@ ios.rqd.qq.com
 adservice.google.com
 adservice.google.com.hk
 www.googletagservices.com
-search.yahoo.com
 ysm.yahoo.com
 yap.yahoo.com
 zz.bdstatic.com
