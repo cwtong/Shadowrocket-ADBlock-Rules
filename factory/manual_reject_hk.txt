@@ -59,8 +59,6 @@ logger.adthor.com
 myqcloud.com
 ios.rqd.qq.com
 .myqcloud.com
-adservice.google.com
-adservice.google.com.hk
 www.googletagservices.com
 ysm.yahoo.com
 yap.yahoo.com
